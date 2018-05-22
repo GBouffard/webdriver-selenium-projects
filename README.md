@@ -10,4 +10,7 @@ cd webdriver-selenium-projects
 npm install
 ```
 
-To be continued...
+:basketball: Spurs wiki fun:
+```
+node spurs-wiki-fun
+```
